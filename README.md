@@ -1,2 +1,2 @@
 # Resume
-Repository to store my resume files
+Repository to store resume files
